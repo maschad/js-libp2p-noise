@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [11.0.1](https://github.com/ChainSafe/js-libp2p-noise/compare/v11.0.0...v11.0.1) (2023-01-16)
+
+
+### Miscellaneous
+
+* bump libp2p from 0.41.0 to 0.42.0 ([#264](https://github.com/ChainSafe/js-libp2p-noise/issues/264)) ([9062556](https://github.com/ChainSafe/js-libp2p-noise/commit/906255635c35e2b7357fc5eca962e5d56148d25c))
+* bump mkdirp from 1.0.4 to 2.0.0 ([#265](https://github.com/ChainSafe/js-libp2p-noise/issues/265)) ([ad89f7a](https://github.com/ChainSafe/js-libp2p-noise/commit/ad89f7a1127ad6dfa3804cc26a6f3174ffb17765))
+* fix dependabot pr titles ([#262](https://github.com/ChainSafe/js-libp2p-noise/issues/262)) ([a5a3888](https://github.com/ChainSafe/js-libp2p-noise/commit/a5a3888e133d45d5b26c8d43c54926247f34a830))
+* update @libp2p/daemon and interop tests ([#261](https://github.com/ChainSafe/js-libp2p-noise/issues/261)) ([b83c24a](https://github.com/ChainSafe/js-libp2p-noise/commit/b83c24a659e9101c2a753ef9f5852f6299cb2413))
+
 ## [11.0.0](https://github.com/ChainSafe/js-libp2p-noise/compare/v10.2.0...v11.0.0) (2023-01-06)
 
 
